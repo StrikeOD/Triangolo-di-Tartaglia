@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Inserisci il numero di righe del triangolo di Tartaglia: ");
+        System.out.print("Inserire il numero di righe desiderate per il triangolo di Tartaglia: ");
         int rows = sc.nextInt();
         int[][] triangle = new int[rows][];
 
@@ -19,9 +19,9 @@ public class Main {
             }
         }
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j <= i; j++) {
-                System.out.print(triangle[i][j] + " ");
+        for (int riga = 0; riga < rows; riga++) {
+            for (int colonna = 0; colonna <= riga; colonna++) {
+                System.out.print(triangle[riga][colonna] + " ");
             }
             System.out.println();
         }
