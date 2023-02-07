@@ -9,13 +9,13 @@ public class Main {
         int rows = sc.nextInt();
         int[][] triangle = new int[rows][];
 
-        for (int i = 0; i < rows; i++) {
-            triangle[i] = new int[i + 1];
-            triangle[i][0] = 1;
-            triangle[i][i] = 1;
+        for (int riga = 0; riga < rows; riga++) {
+            triangle[riga] = new int[riga + 1];
+            triangle[riga][0] = 1;
+            triangle[riga][riga] = 1;
 
-            for (int j = 1; j < i; j++) {
-                triangle[i][j] = triangle[i - 1][j - 1] + triangle[i - 1][j];
+            for (int colonna = 1; colonna < riga; colonna++) {
+                triangle[riga][colonna] = triangle[riga - 1][colonna - 1] + triangle[riga - 1][colonna];
             }
         }
 
