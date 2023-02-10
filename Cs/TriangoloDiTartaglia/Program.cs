@@ -6,9 +6,7 @@ namespace TriangoloDiTartaglia
     {
         public static void Main(string[] args)
         {
-            //InitTriangle();
-            DataTypes dt = new DataTypes();
-            dt.getSize();
+            InitTriangle();
         }
 
         public static void InitTriangle()
