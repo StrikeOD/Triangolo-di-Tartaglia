@@ -1,0 +1,7 @@
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\bin\Debug\TriangoloDiTartaglia.exe
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\bin\Debug\TriangoloDiTartaglia.pdb
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\obj\Debug\TriangoloDiTartaglia.csproj.AssemblyReference.cache
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\obj\Debug\TriangoloDiTartaglia.csproj.SuggestedBindingRedirects.cache
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\obj\Debug\TriangoloDiTartaglia.csproj.CoreCompileInputs.cache
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\obj\Debug\TriangoloDiTartaglia.exe
+C:\Users\errit\RiderProjects\Matematica1As\TriangoloDiTartaglia\obj\Debug\TriangoloDiTartaglia.pdb
